@@ -1,0 +1,35 @@
+.about-app
+{
+    width: 100%;
+    display: flex;
+    padding: 5px;
+   
+    align-items: center;
+    height: 400px;
+    flex-direction: column;
+   
+    
+}
+
+.about{
+    text-decoration: underline;
+    
+}
+.about-description
+{
+   
+    border-radius: 16px;
+    background-color: lightblue;
+    
+
+    position: relative;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 40px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    
+    
+    
+}

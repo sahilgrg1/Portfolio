@@ -1,0 +1,75 @@
+
+.main
+{
+    width: 100%;
+    height: 600px;
+    background-color: lightskyblue;
+    
+    background-size: cover;
+}
+.headers{
+    display: flex;
+    justify-content: center;
+}
+ul
+{
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    li {
+        list-style: none;
+        margin: 10px;
+        text-transform: uppercase;
+       
+    }
+}
+.link{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    &:hover{
+        border-bottom: 3px solid red;
+        color: darkblue;
+       font-size: 25px;
+        transition: 0.4 ;
+    }
+}
+img
+{
+    height: 450px;
+    width: 450px;
+}
+.main-components
+{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.images
+{
+    margin-top: 90px;
+    margin-left: 6rem;
+}
+.description
+{
+    margin-right: 10rem;
+}
+.header-decription
+{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 35px;
+    color: white;
+}
+
+.profession
+{
+    margin-top: 4rem;
+    p {
+        font-size: 25px;
+        span
+        {
+            color: black;
+        }
+    }
+}
