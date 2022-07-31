@@ -8,7 +8,7 @@ function About() {
             </div>
            <div className="about-description">
                <p>
-               An Experienced Software Engineering Professional, having expertise in wide range to technologies.In my career, i had worked as a software consultant,a sofware engineer for fortune 500 organisation.
+               An Experienced Software Engineering Professional, having expertise in wide range of technologies.In my career, i had worked as a software consultant,a sofware engineer for fortune 500 organisation.
                 A Quick learner, always curious and excited about new technologies and there implementions in the business.
                 </p>
             </div> 
