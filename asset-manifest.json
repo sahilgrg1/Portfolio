@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b4f3f2bb.css",
+    "main.js": "/Portfolio/static/js/main.62299847.js",
+    "static/media/man1.png": "/Portfolio/static/media/man1.0586c5d023594f1e6fe7.png",
+    "static/media/skill.png": "/Portfolio/static/media/skill.e719505de27049b5b196.png",
+    "static/media/SahilGarg_CV.pdf": "/Portfolio/static/media/SahilGarg_CV.6a2c22b2be475c92a1ca.pdf",
+    "static/media/Linkdin.png": "/Portfolio/static/media/Linkdin.5ad02e7d6c87ab347c1e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b4f3f2bb.css.map": "/Portfolio/static/css/main.b4f3f2bb.css.map",
+    "main.62299847.js.map": "/Portfolio/static/js/main.62299847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f3f2bb.css",
+    "static/js/main.62299847.js"
+  ]
+}
